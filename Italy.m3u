@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,====== +SKY ITALIA+=====
+#EXTINF:-1,====== +SKY ITALIYA+=====
 http://149.202.195.182:2500/live/Jacques2/Jacques2/2291.ts
 #EXTINF:-1,IT: SKY SPORT 1 HD
 http://149.202.195.182:2500/live/Jacques2/Jacques2/105.ts
@@ -240,388 +240,165 @@ http://149.202.195.182:2500/live/Jacques2/Jacques2/1226.ts
 http://149.202.195.182:2500/live/Jacques2/Jacques2/1225.ts
 #EXTINF:-1,IT: PRIMAFILA 1 HD
 http://149.202.195.182:2500/live/Jacques2/Jacques2/995.ts
-#EXTINF:-1,IT:  Caccia e Pesca
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3254.ts
-#EXTINF:-1,IT: alice
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3362.ts
-#EXTINF:-1,IT: Animal Planet
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3214.ts
-#EXTINF:-1,IT: AutoMoto TV
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4178.ts
-#EXTINF:-1,IT: AXN HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3689.ts
-#EXTINF:-1,IT: Axn Scy-Fy.
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3690.ts
-#EXTINF:-1,IT: Baby Tv
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3691.ts
-#EXTINF:-1,IT: Bike Channel
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3692.ts
-#EXTINF:-1,IT: BOING
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3216.ts
-#EXTINF:-1,IT: Boomerang
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3693.ts
-#EXTINF:-1,IT: Canale 10
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4179.ts
-#EXTINF:-1,IT: Canale 21
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4180.ts
-#EXTINF:-1,IT: Canale 5 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3283.ts
-#EXTINF:-1,IT: Canale 7
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4181.ts
-#EXTINF:-1,IT: Canale 8
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4182.ts
-#EXTINF:-1,IT: Cartoon Network
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4183.ts
-#EXTINF:-1,IT: Cartoonito
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3229.ts
-#EXTINF:-1,IT: Cielo
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3230.ts
-#EXTINF:-1,IT: Comedy Central
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3697.ts
-#EXTINF:-1,IT: Crime Investigation
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3698.ts
-#EXTINF:-1,IT: DeeJay TV
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4184.ts
-#EXTINF:-1,IT: Discovery Channel HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3235.ts
-#EXTINF:-1,IT: Discovery Science HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3237.ts
-#EXTINF:-1,IT: Discovery Travel and Living HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3238.ts
-#EXTINF:-1,IT: Disney Channel  1
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4185.ts
-#EXTINF:-1,IT: Disney Channel HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3702.ts
-#EXTINF:-1,IT: Disney Junior
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3348.ts
-#EXTINF:-1,IT: Disney XD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3240.ts
-#EXTINF:-1,IT: Dmax
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3241.ts
-#EXTINF:-1,IT: Dmax  1
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4186.ts
-#EXTINF:-1,IT: E! Entertainment HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3703.ts
-#EXTINF:-1,IT: EuroSport 1 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3705.ts
-#EXTINF:-1,IT: EuroSport 2 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3704.ts
-#EXTINF:-1,IT: Explora HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3242.ts
-#EXTINF:-1,IT: Fine Living
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3707.ts
-#EXTINF:-1,IT: Focus
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3236.ts
-#EXTINF:-1,IT: Fox Animation HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3708.ts
-#EXTINF:-1,IT: Fox Comedy HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3243.ts
-#EXTINF:-1,IT: Fox Crime HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3368.ts
-#EXTINF:-1,IT: Fox HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3244.ts
-#EXTINF:-1,IT: Fox Life HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3245.ts
-#EXTINF:-1,IT: Fox Sports HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3370.ts
-#EXTINF:-1,IT: Frisbee
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3246.ts
-#EXTINF:-1,IT: Gambero Rosso HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3247.ts
-#EXTINF:-1,IT: Giallo
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3361.ts
-#EXTINF:-1,IT: HISTORY HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3248.ts
-#EXTINF:-1,IT: Inter Channel
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3710.ts
-#EXTINF:-1,IT: Iris
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3711.ts
-#EXTINF:-1,IT: Italia 1 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3286.ts
-#EXTINF:-1,IT: Italia 7 Gold
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3709.ts
-#EXTINF:-1,IT: Italian Fishing Tv
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3712.ts
-#EXTINF:-1,IT: J | Juventus TV
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3713.ts
-#EXTINF:-1,IT: K2
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3249.ts
-#EXTINF:-1,IT: La 5
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3289.ts
-#EXTINF:-1,IT: La 7 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3290.ts
-#EXTINF:-1,IT: La 7D
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3292.ts
-#EXTINF:-1,IT: Lazio Style Channel
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3714.ts
-#EXTINF:-1,IT: Lei
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3715.ts
-#EXTINF:-1,IT: m2o hd
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4187.ts
-#EXTINF:-1,IT: MANGA
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4229.ts
-#EXTINF:-1,IT: Marcopolo
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3718.ts
-#EXTINF:-1,IT: Masha e L'Orso Channel
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4188.ts
-#EXTINF:-1,IT: Mediaset Extra
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3359.ts
-#EXTINF:-1,IT: Mediaset Italia 2
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3358.ts
-#EXTINF:-1,IT: Milan Channel
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3719.ts
-#EXTINF:-1,IT: MTV Music
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3250.ts
-#EXTINF:-1,IT: NAT GEO POEPLE
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3251.ts
-#EXTINF:-1,IT: NAT GEO WILD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3252.ts
-#EXTINF:-1,IT: National Geo HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3253.ts
-#EXTINF:-1,IT: Nuvolari
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4189.ts
-#EXTINF:-1,IT: PARAMOUNT CHANNEL
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3723.ts
-#EXTINF:-1,IT: Paramount Channel HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4190.ts
-#EXTINF:-1,IT: Poker Central
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4191.ts
-#EXTINF:-1,IT: Premium Action HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3727.ts
-#EXTINF:-1,IT: Premium Action+24
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3726.ts
-#EXTINF:-1,IT: Premium Calcio
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4192.ts
-#EXTINF:-1,IT: Premium Calcio 1 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3337.ts
-#EXTINF:-1,IT: Premium Calcio 2
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3338.ts
-#EXTINF:-1,IT: Premium Calcio 3
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3339.ts
-#EXTINF:-1,IT: Premium Calcio 4
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3340.ts
-#EXTINF:-1,IT: Premium Calcio 5
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3341.ts
-#EXTINF:-1,IT: Premium Calcio 6
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3342.ts
-#EXTINF:-1,IT: Premium Calcio 7
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4193.ts
-#EXTINF:-1,IT: Premium Cinema 2 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3345.ts
-#EXTINF:-1,IT: Premium Cinema Comedy
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3730.ts
-#EXTINF:-1,IT: Premium Cinema Energy
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3734.ts
-#EXTINF:-1,IT: Premium Cinema HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3731.ts
-#EXTINF:-1,IT: Premium Cinema+24
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3728.ts
-#EXTINF:-1,IT: Premium Cinema2+24
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3729.ts
-#EXTINF:-1,IT: Premium Crime HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3347.ts
-#EXTINF:-1,IT: Premium Crime+24
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3732.ts
-#EXTINF:-1,IT: Premium Emotion
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3733.ts
-#EXTINF:-1,IT: Premium Joi
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3735.ts
-#EXTINF:-1,IT: Premium Joy+24
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3736.ts
-#EXTINF:-1,IT: Premium Sport 2 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3738.ts
-#EXTINF:-1,IT: Premium Sport HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3349.ts
-#EXTINF:-1,IT: Premium Stories
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3739.ts
-#EXTINF:-1,IT: Premium Stories+24
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3740.ts
-#EXTINF:-1,IT: Premium Studio Universal
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3351.ts
-#EXTINF:-1,IT: Premium TOPcrime
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3741.ts
-#EXTINF:-1,IT: QVC
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4194.ts
-#EXTINF:-1,IT: Radio 105 TV
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4195.ts
-#EXTINF:-1,IT: Radio Italia TV
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4196.ts
-#EXTINF:-1,IT: RADIO MONTECARLO
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4197.ts
-#EXTINF:-1,IT: RAI 1 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3293.ts
-#EXTINF:-1,IT: Rai 2 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3294.ts
-#EXTINF:-1,IT: Rai 3 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3357.ts
-#EXTINF:-1,IT: Rai 4 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3295.ts
-#EXTINF:-1,IT: Rai 5 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3296.ts
-#EXTINF:-1,IT: Rai Gulp
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3742.ts
-#EXTINF:-1,IT: Rai Movie
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3297.ts
-#EXTINF:-1,IT: Rai News 24
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3298.ts
-#EXTINF:-1,IT: Rai Premium
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3743.ts
-#EXTINF:-1,IT: Rai Scuola
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4198.ts
-#EXTINF:-1,IT: Rai Sport 1 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3299.ts
-#EXTINF:-1,IT: Rai Sport 2 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4199.ts
-#EXTINF:-1,IT: Rai Yoyo
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3300.ts
-#EXTINF:-1,IT: RDS
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4200.ts
-#EXTINF:-1,IT: Real Time 1 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4201.ts
-#EXTINF:-1,IT: Real Time HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3269.ts
-#EXTINF:-1,IT: Rete 4 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3302.ts
-#EXTINF:-1,IT: Roma TV
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3745.ts
-#EXTINF:-1,IT: RSI La 1 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3303.ts
-#EXTINF:-1,IT: RSI La2 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3360.ts
-#EXTINF:-1,IT: RTL 102.5
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4202.ts
-#EXTINF:-1,IT: RTV San Marino
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4203.ts
-#EXTINF:-1,IT: Sky Arte HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3973.ts
-#EXTINF:-1,IT: Sky Atlantic HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3215.ts
-#EXTINF:-1,IT: Sky Atlantic+1 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4228.ts
-#EXTINF:-1,IT: Sky Calcio 1 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3218.ts
-#EXTINF:-1,IT: Sky Calcio 2 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3220.ts
-#EXTINF:-1,IT: Sky Calcio 3 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3221.ts
-#EXTINF:-1,IT: Sky Calcio 4 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3222.ts
-#EXTINF:-1,IT: Sky Calcio 5 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3223.ts
-#EXTINF:-1,IT: Sky Calcio 6 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3224.ts
-#EXTINF:-1,IT: Sky Calcio 7 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3225.ts
-#EXTINF:-1,IT: Sky Calcio 8 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3226.ts
-#EXTINF:-1,IT: Sky Calcio 9 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3227.ts
-#EXTINF:-1,IT: Sky Calcio 10 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3219.ts
-#EXTINF:-1,IT: Sky Cinema 1 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3231.ts
-#EXTINF:-1,IT: Sky Cinema 3D
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3233.ts
-#EXTINF:-1,IT: Sky Cinema Classic HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3234.ts
-#EXTINF:-1,IT: Sky Cinema Comedy HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3363.ts
-#EXTINF:-1,IT: Sky Cinema Cult HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3749.ts
-#EXTINF:-1,IT: Sky Cinema Family HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3431.ts
-#EXTINF:-1,IT: Sky Cinema Family+1 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4176.ts
-#EXTINF:-1,IT: Sky Cinema Hits HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3432.ts
-#EXTINF:-1,IT: Sky Cinema Max HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3364.ts
-#EXTINF:-1,IT: Sky Cinema Max+1 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4177.ts
-#EXTINF:-1,IT: Sky Cinema Passion HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3750.ts
-#EXTINF:-1,IT: Sky Cinema+1 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3748.ts
-#EXTINF:-1,IT: Sky Cinema+24 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3433.ts
-#EXTINF:-1,IT: Sky Formula 1 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3371.ts
-#EXTINF:-1,IT: SKY PRIMAFILA 1 | Batman Vs Superman Dawn Of Justice
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4215.ts
-#EXTINF:-1,IT: SKY PRIMAFILA 10 | Zoolander.2
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4224.ts
-#EXTINF:-1,IT: SKY PRIMAFILA 11 | Risorto
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4225.ts
-#EXTINF:-1,IT: SKY PRIMAFILA 12 | Il Mio Grosso Grasso Matrimonio Greco 2
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4226.ts
-#EXTINF:-1,IT: SKY PRIMAFILA 2 | Il caso Spotlight (2015)
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4216.ts
-#EXTINF:-1,IT: SKY PRIMAFILA 3 | Good Kill (2015)
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4217.ts
-#EXTINF:-1,IT: SKY PRIMAFILA 4 | Kung Fu Panda 3 (2016)
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4218.ts
-#EXTINF:-1,IT: SKY PRIMAFILA 5 | Matrimonio Al Sud (2015)
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4219.ts
-#EXTINF:-1,IT: SKY PRIMAFILA 6 | Woman in Gold (2015)
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4220.ts
-#EXTINF:-1,IT: SKY PRIMAFILA 7 | Dark Places Nei luoghi oscuri (2015)
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4221.ts
-#EXTINF:-1,IT: SKY PRIMAFILA 8 | Remember (2015)
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4222.ts
-#EXTINF:-1,IT: SKY PRIMAFILA 9 | Benvenuti al Sud (2010)
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4223.ts
-#EXTINF:-1,IT: Sky Sport 1 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3270.ts
-#EXTINF:-1,IT: Sky Sport 2 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3271.ts
-#EXTINF:-1,IT: Sky Sport 3 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3272.ts
-#EXTINF:-1,IT: Sky Sport 24 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3369.ts
-#EXTINF:-1,IT: Sky Sport MotoGP HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3273.ts
-#EXTINF:-1,IT: Sky Sport Plus HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3274.ts
-#EXTINF:-1,IT: Sky Supercalcio HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3277.ts
-#EXTINF:-1,IT: Sky tg 24
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3279.ts
-#EXTINF:-1,IT: Sky Tg Com 24
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3280.ts
-#EXTINF:-1,IT: Sky Uno HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3367.ts
-#EXTINF:-1,IT: SKY UNO+1 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4227.ts
-#EXTINF:-1,IT: Sportitalia
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3275.ts
-#EXTINF:-1,IT: Super!
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3276.ts
-#EXTINF:-1,IT: Supertennis
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3278.ts
-#EXTINF:-1,IT: TelePavia
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4204.ts
-#EXTINF:-1,IT: Tv 2000
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3304.ts
-#EXTINF:-1,IT: Tv 8
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4205.ts
-#EXTINF:-1,IT: Tv Globo
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4206.ts
-#EXTINF:-1,IT: TV Luna
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4207.ts
-#EXTINF:-1,IT: TV Siena
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4208.ts
-#EXTINF:-1,IT: Vevo 1 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4209.ts
-#EXTINF:-1,IT: Vevo 2 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4210.ts
-#EXTINF:-1,IT: Vevo 3 HD
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4211.ts
-#EXTINF:-1,IT: Video Brescia
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4212.ts
-#EXTINF:-1,IT: Videolina
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4213.ts
-#EXTINF:-1,IT: Virgin Radio TV
-http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4214.ts
+
+
+
+
+
+
+
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ TVSAT-SKYitaliA █ ▇ ▆ ▅ ▄ ▃
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1133.ts
+#EXTINF:-1,IT-Tvsat_Rai1_HD
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1134.ts
+#EXTINF:-1,IT-Tvsat_Rai2_HD
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1135.ts
+#EXTINF:-1,IT-Rai3HD
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1136.ts
+#EXTINF:-1,IT-Rai4HD
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1137.ts
+#EXTINF:-1,IT-Rai5
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1138.ts
+#EXTINF:-1,IT-Tvsat_Italia1HD
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1139.ts
+#EXTINF:-1,IT-Tvsat_Rete4_HD
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1140.ts
+#EXTINF:-1,IT-Canale5HD
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1141.ts
+#EXTINF:-1,IT-Rai_Yoyo
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1142.ts
+#EXTINF:-1,IT-RAI_MOVIE
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1144.ts
+#EXTINF:-1,IT-Rai_News24
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1143.ts
+#EXTINF:-1,sky-TAG24
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/368.ts
+#EXTINF:-1,RETE8
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/361.ts
+#EXTINF:-1,raipremium_1
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/367.ts
+#EXTINF:-1,raigulp_1
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/365.ts
+#EXTINF:-1,FANO TV
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/366.ts
+#EXTINF:-1,ETV MARCHE
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/363.ts
+#EXTINF:-1,CBL CHANNEL
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/362.ts
+#EXTINF:-1,IT-Mediaset_Extra
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1147.ts
+#EXTINF:-1,IT | Sky Sport 1 hd .
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1448.ts
+#EXTINF:-1,IT: Sky Sport 2 HD .
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1449.ts
+#EXTINF:-1,IT: Sky sport 3 hd
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1450.ts
+#EXTINF:-1,IT: Sky Sport 24 HD ..
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1451.ts
+#EXTINF:-1,IT: RSI 1 HD
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1453.ts
+#EXTINF:-1,IT: RSI 2 HD.
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1452.ts
+#EXTINF:-1,IT- SportItalia
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1148.ts
+#EXTINF:-1,IT- EuroSport 1 HD
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1149.ts
+#EXTINF:-1,IT- EuroSport 2 HD
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1150.ts
+#EXTINF:-1,IT-SUPER TENNİS
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1151.ts
+#EXTINF:-1,IT- Premium Stories
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1159.ts
+#EXTINF:-1,IT-PREMIUM JOI .
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1145.ts
+#EXTINF:-1,IT-PREMIUM CINEMA 2 24 HD
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1146.ts
+#EXTINF:-1,IT- Premium Sport HD
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1160.ts
+#EXTINF:-1,IT- Premium Sport 2 HD
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1161.ts
+#EXTINF:-1,IT- Premium Cinema  24 HD
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1162.ts
+#EXTINF:-1,IT_SkyCinema_Classic
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1346.ts
+#EXTINF:-1,IT_Sky_Cinema_Passion
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1349.ts
+#EXTINF:-1,IT_Sky_Cinema_Cult_HD
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1351.ts
+#EXTINF:-1,IT_Sky_Cinema_Comedy
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1352.ts
+#EXTINF:-1,IT_Sky_Cinema24HD
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1348.ts
+#EXTINF:-1,IT=SkyCinema_Max
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1274.ts
+#EXTINF:-1,IT_SkyCinema_Plus1
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1345.ts
+#EXTINF:-1,IT_SKY_CINEMA_MAX-PLUS1_HD
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1350.ts
+#EXTINF:-1,IT=SkyCinema_Hits
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1277.ts
+#EXTINF:-1,IT=Sky_Cinema_Family_HD
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1275.ts
+#EXTINF:-1,IT_SKY_FAMILY-PLUS1_HD
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1347.ts
+#EXTINF:-1,IT=Sky_Cinema_3D
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1278.ts
+#EXTINF:-1,IT=SKY Atlantic HD
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1276.ts
+#EXTINF:-1,IT Sky Uno HD
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1279.ts
+#EXTINF:-1,IT Sky Cinema Max HD
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1280.ts
+#EXTINF:-1,IT Sky Cinema Family HD
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1282.ts
+#EXTINF:-1,IT Sky Cinema  1 HD
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1281.ts
+#EXTINF:-1,IT Premium Stories
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1267.ts
+#EXTINF:-1,IT Premium Joi
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1273.ts
+#EXTINF:-1,IT Premium Crime HD
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1271.ts
+#EXTINF:-1,IT Premium Cinema HD
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1268.ts
+#EXTINF:-1,IT Premium Cinema 2 HD
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1269.ts
+#EXTINF:-1,IT Premium Cinema   24
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1264.ts
+#EXTINF:-1,IT Premium Action HD
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1266.ts
+#EXTINF:-1,IT Premium  Energy
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1272.ts
+#EXTINF:-1,IT Premium  Emotion
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1265.ts
+#EXTINF:-1,IT Premium  Comedy
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/1270.ts
+#EXTINF:-1,IT_SKY_PRIMAFILA1
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/786.ts
+#EXTINF:-1,IT_SKY_PRIMAFILA2
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/787.ts
+#EXTINF:-1,IT_SKY_PRIMAFILA3
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/788.ts
+#EXTINF:-1,IT_SKY_PRIMAFILA4
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/789.ts
+#EXTINF:-1,IT_SKY_PRIMAFILA5
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/790.ts
+#EXTINF:-1,IT_SKY_PRIMAFILA6
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/791.ts
+#EXTINF:-1,IT_SKY_PRIMAFILA7
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/792.ts
+#EXTINF:-1,IT_SKY_PRIMAFILA8
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/793.ts
+#EXTINF:-1,IT_SKY_PRIMAFILA9
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/794.ts
+#EXTINF:-1,IT_SKY_PRIMAFILA10
+http://errifi.dynu.com:25461/live/redson_errifi/startimes/795.ts
+
+
+
+
+
+
 #EXTINF:-1,---Sky Italia---
 http://hd.guardatv.eu:8000/live/nameskype/dreambox.share/1172.ts
 #EXTINF:-1,Rai 1 HD
