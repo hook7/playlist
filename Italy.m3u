@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1,====== +SKY ITALIYA+=====
 http://149.202.195.182:2500/live/Jacques2/Jacques2/2291.ts
 #EXTINF:-1,IT: SKY SPORT 1 HD
@@ -238,13 +240,6 @@ http://149.202.195.182:2500/live/Jacques2/Jacques2/1226.ts
 http://149.202.195.182:2500/live/Jacques2/Jacques2/1225.ts
 #EXTINF:-1,IT: PRIMAFILA 1 HD
 http://149.202.195.182:2500/live/Jacques2/Jacques2/995.ts
-
-
-
-
-
-
-
 #EXTINF:-1,IT:  Caccia e Pesca
 http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/3254.ts
 #EXTINF:-1,IT: alice
@@ -627,12 +622,6 @@ http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4212.ts
 http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4213.ts
 #EXTINF:-1,IT: Virgin Radio TV
 http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4214.ts
-
-
-
-
-
-
 #EXTINF:-1,---Sky Italia---
 http://hd.guardatv.eu:8000/live/nameskype/dreambox.share/1172.ts
 #EXTINF:-1,Rai 1 HD
