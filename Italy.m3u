@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,====== +SKY ITALIYA+=====
+#EXTINF:-1,====== +SKY ITALIA+=====
 http://149.202.195.182:2500/live/Jacques2/Jacques2/2291.ts
 #EXTINF:-1,IT: SKY SPORT 1 HD
 http://149.202.195.182:2500/live/Jacques2/Jacques2/105.ts
@@ -12,6 +12,7 @@ http://149.202.195.182:2500/live/Jacques2/Jacques2/109.ts
 http://149.202.195.182:2500/live/Jacques2/Jacques2/2528.ts
 #EXTINF:-1,IT: SKY_SPORT_MOTO_GP_HD
 http://149.202.195.182:2500/live/Jacques2/Jacques2/2529.ts
+
 #EXTINF:-1,---------------Sky Calcio-----------
 http://149.202.195.182:2500/live/Jacques2/Jacques2/1623.ts
 #EXTINF:-1,Sky supercalcio HD
@@ -42,6 +43,7 @@ http://149.202.195.182:2500/live/Jacques2/Jacques2/2976.ts
 http://149.202.195.182:2500/live/Jacques2/Jacques2/2975.ts
 #EXTINF:-1,IT: Premium/Calcio6
 http://149.202.195.182:2500/live/Jacques2/Jacques2/2974.ts
+
 #EXTINF:-1,------PREMIUM-ACTION----------
 http://149.202.195.182:2500/live/Jacques2/Jacques2/554.ts
 #EXTINF:-1,IT:Sky.Nat.Geo.WildHD
@@ -242,11 +244,6 @@ http://149.202.195.182:2500/live/Jacques2/Jacques2/1225.ts
 http://149.202.195.182:2500/live/Jacques2/Jacques2/995.ts
 
 
-
-
-
-
-
 #EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ TVSAT-SKYitaliA █ ▇ ▆ ▅ ▄ ▃
 http://errifi.dynu.com:25461/live/redson_errifi/startimes/1133.ts
 #EXTINF:-1,IT-Tvsat_Rai1_HD
@@ -393,9 +390,6 @@ http://errifi.dynu.com:25461/live/redson_errifi/startimes/793.ts
 http://errifi.dynu.com:25461/live/redson_errifi/startimes/794.ts
 #EXTINF:-1,IT_SKY_PRIMAFILA10
 http://errifi.dynu.com:25461/live/redson_errifi/startimes/795.ts
-
-
-
 
 
 
