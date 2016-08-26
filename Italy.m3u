@@ -1,8 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,====== +LISTA AGGIORNATA AL 25/8/2016+=====
-
-#EXTINF:-1,====== +SKY ITALIA+=====
+#EXTINF:-1,======+LISTA AGGIORNATA AL 25/8/2016+=====
+#EXTINF:-1,======+SKY ITALIA+=====
 http://149.202.195.182:2500/live/Jacques2/Jacques2/2291.ts
 #EXTINF:-1,IT: SKY SPORT 1 HD
 http://149.202.195.182:2500/live/Jacques2/Jacques2/105.ts
