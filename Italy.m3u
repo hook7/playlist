@@ -1,247 +1,115 @@
 #EXTM3U
 
-#EXTINF:-1,======+SKY ITALIA+LIST UPDATE 27/8/2016+=====
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2291.ts
-#EXTINF:-1,IT: SKY SPORT 1 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/105.ts
-#EXTINF:-1,IT: SKY SPORT 2 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/106.ts
-#EXTINF:-1,IT: Sky Sports 24 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/109.ts
-#EXTINF:-1,IT: SKY_SPORTS_F1_HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2528.ts
-#EXTINF:-1,IT: SKY_SPORT_MOTO_GP_HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2529.ts
-#EXTINF:-1,---------------Sky Calcio-----------
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1623.ts
-#EXTINF:-1,Sky supercalcio HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1624.ts
-#EXTINF:-1,Sky Calcio 6 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1630.ts
-#EXTINF:-1,Sky Calcio 5 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1629.ts
-#EXTINF:-1,Sky Calcio 4 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1628.ts
-#EXTINF:-1,Sky Calcio 3 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1627.ts
-#EXTINF:-1,Sky Calcio 2 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1626.ts
-#EXTINF:-1,SKY Calcio 1 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1625.ts
-#EXTINF:-1,IT: Premium/Calcio1
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2979.ts
-#EXTINF:-1,IT: Premium/Calcio2
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2978.ts
-#EXTINF:-1,IT:Premium/Calcio3
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2977.ts
-#EXTINF:-1,IT: Premium/Calcio7
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2973.ts
-#EXTINF:-1,IT: Premium/Calcio4
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2976.ts
-#EXTINF:-1,IT: Premium/Calcio5
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2975.ts
-#EXTINF:-1,IT: Premium/Calcio6
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2974.ts
-#EXTINF:-1,------PREMIUM-ACTION----------
-http://149.202.195.182:2500/live/Jacques2/Jacques2/554.ts
-#EXTINF:-1,IT:Sky.Nat.Geo.WildHD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/906.ts
-#EXTINF:-1,IT:Sky Uno HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/779.ts
-#EXTINF:-1,IT:Sky Supercalcio HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/778.ts
-#EXTINF:-1,IT:Sky Atlantic HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1022.ts
-#EXTINF:-1,IT:Sky  Comedy HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1024.ts
-#EXTINF:-1,IT:Sky Cinema Cult HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/783.ts
-#EXTINF:-1,IT:Sky Cinema Classics
-http://149.202.195.182:2500/live/Jacques2/Jacques2/782.ts
-#EXTINF:-1,IT:Cinema Family HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1021.ts
-#EXTINF:-1,IT:Cinema +24 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1020.ts
-#EXTINF:-1,IT: Sky CINEMA PASSION HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/73.ts
-#EXTINF:-1,IT: SKY CINEMA MAX HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/75.ts
-#EXTINF:-1,IT: Sky Cinema Hits HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/79.ts
-#EXTINF:-1,IT: SKY CINEMA 1 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/81.ts
-#EXTINF:-1,IT:Premium.CinemaHD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/989.ts
-#EXTINF:-1,IT: Premium Stories
-http://149.202.195.182:2500/live/Jacques2/Jacques2/4323.ts
-#EXTINF:-1,IT: Premium Joy
-http://149.202.195.182:2500/live/Jacques2/Jacques2/4324.ts
-#EXTINF:-1,IT: Premium Crime 24
-http://149.202.195.182:2500/live/Jacques2/Jacques2/4325.ts
-#EXTINF:-1,IT:Premium.Action.24
-http://149.202.195.182:2500/live/Jacques2/Jacques2/905.ts
-#EXTINF:-1,IT:PREMIUM-ENERGY
-http://149.202.195.182:2500/live/Jacques2/Jacques2/548.ts
-#EXTINF:-1,IT:PREMIUM STUDIO UNIVERSAL
-http://149.202.195.182:2500/live/Jacques2/Jacques2/899.ts
-#EXTINF:-1,IT:PREMIUM EMOTION
-http://149.202.195.182:2500/live/Jacques2/Jacques2/538.ts
-#EXTINF:-1,IT:PREMIUM DISNEY JUNIOR
-http://149.202.195.182:2500/live/Jacques2/Jacques2/901.ts
-#EXTINF:-1,IT:PREMIUM CRIME HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/902.ts
-#EXTINF:-1,IT:PREMIUM CINEMA COMEDY
-http://149.202.195.182:2500/live/Jacques2/Jacques2/903.ts
-#EXTINF:-1,IT:PREMIUM CALCIO
-http://149.202.195.182:2500/live/Jacques2/Jacques2/904.ts
-#EXTINF:-1,IT:PREMIUM ACTION HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/546.ts
-#EXTINF:-1,IT: Rai Premium HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/4055.ts
-#EXTINF:-1,IT: Premium Cinema 2 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/4057.ts
-#EXTINF:-1,IT: Rai News 24
-http://149.202.195.182:2500/live/Jacques2/Jacques2/4056.ts
-#EXTINF:-1,IT: Rai sport 2
-http://149.202.195.182:2500/live/Jacques2/Jacques2/4322.ts
-#EXTINF:-1,IT: Fox Life HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/4327.ts
-#EXTINF:-1,IT: Fox HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/4326.ts
-#EXTINF:-1,IT: Fox Sport HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/4060.ts
-#EXTINF:-1,IT: Sky Fox Crime.HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/4061.ts
-#EXTINF:-1,IT: History HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/4328.ts
-#EXTINF:-1,IT: Cielo
-http://149.202.195.182:2500/live/Jacques2/Jacques2/4063.ts
-#EXTINF:-1,IT: AXN
-http://149.202.195.182:2500/live/Jacques2/Jacques2/4062.ts
-#EXTINF:-1,IT:NAT.GEO.POEPLE.HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/907.ts
-#EXTINF:-1,IT:Fox Crime HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/781.ts
-#EXTINF:-1,IT:Discovery Channel
-http://149.202.195.182:2500/live/Jacques2/Jacques2/780.ts
-#EXTINF:-1,IT: NAT-GEO-WILD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1989.ts
-#EXTINF:-1,IT: Focus
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2060.ts
-#EXTINF:-1,IT: Discovery HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1990.ts
-#EXTINF:-1,IT-Discovery.World
-http://149.202.195.182:2500/live/Jacques2/Jacques2/910.ts
-#EXTINF:-1,IT: SuperTennis
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2664.ts
-#EXTINF:-1,IT: National Geo
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2660.ts
-#EXTINF:-1,IT: NatGeo People
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2661.ts
-#EXTINF:-1,IT: MediasetPremiumJoi
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2662.ts
-#EXTINF:-1,IT: Mediaset1
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2663.ts
-#EXTINF:-1,IT: DisneyXD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2665.ts
-#EXTINF:-1,IT: RAI YOYO
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2960.ts
-#EXTINF:-1,IT: Rai Scuola
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2961.ts
-#EXTINF:-1,IT: Rai Gulp
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2959.ts
-#EXTINF:-1,IT: K2
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2962.ts
-#EXTINF:-1,IT: Alice
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2963.ts
-#EXTINF:-1,IT: DiscoverySci
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2666.ts
-#EXTINF:-1,IT: CARTOONITO
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2667.ts
-#EXTINF:-1,IT: CARTOON NETWORK
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2668.ts
-#EXTINF:-1,IT: Canale5
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2669.ts
-#EXTINF:-1,IT: Boing
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2670.ts
-#EXTINF:-1,IT: AnimalPlanet
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2671.ts
-#EXTINF:-1,IT:Mediaset Italia 2
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1620.ts
-#EXTINF:-1,IT:Mediaset Extra
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1621.ts
-#EXTINF:-1,IT: RAI SPORT 1 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1622.ts
-#EXTINF:-1,IT: RSI La 2 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2768.ts
-#EXTINF:-1,IT: RSI La 1 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2769.ts
-#EXTINF:-1,IT:La 7D
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1617.ts
-#EXTINF:-1,IT: Rai 5 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1616.ts
-#EXTINF:-1,IT:Rai 4 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1615.ts
-#EXTINF:-1,IT:RAI 2 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/349.ts
-#EXTINF:-1,IT: RAI 1 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/348.ts
-#EXTINF:-1,Italia 1 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1610.ts
-#EXTINF:-1,La 7 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1611.ts
-#EXTINF:-1,RSI 2 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1614.ts
-#EXTINF:-1,RSI 1 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1613.ts
-#EXTINF:-1,Rete 4 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1608.ts
-#EXTINF:-1,Rai 3 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1607.ts
-#EXTINF:-1,IT:La 5
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1618.ts
-#EXTINF:-1,IT:Iris
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1619.ts
-#EXTINF:-1,IT: PRIMAFILA 9 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/90.ts
-#EXTINF:-1,IT: PRIMAFILA 8 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1338.ts
-#EXTINF:-1,IT: PRIMAFILA 7 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1339.ts
-#EXTINF:-1,IT: PRIMAFILA 6 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/88.ts
-#EXTINF:-1,IT: PRIMAFILA 5 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/999.ts
-#EXTINF:-1,IT: PRIMAFILA 4 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/998.ts
-#EXTINF:-1,IT: PRIMAFILA 3 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/997.ts
-#EXTINF:-1,IT: PRIMAFILA 2 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/996.ts
-#EXTINF:-1,IT: PRIMAFILA 19
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2190.ts
-#EXTINF:-1,IT: PRIMAFILA 18
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2189.ts
-#EXTINF:-1,IT: PRIMAFILA 17
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2188.ts
-#EXTINF:-1,IT: PRIMAFILA 16
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2187.ts
-#EXTINF:-1,IT: PRIMAFILA 15
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2186.ts
-#EXTINF:-1,IT: PRIMAFILA 14
-http://149.202.195.182:2500/live/Jacques2/Jacques2/2185.ts
-#EXTINF:-1,IT: PRIMAFILA 13 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1295.ts
-#EXTINF:-1,IT: PRIMAFILA 12 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1227.ts
-#EXTINF:-1,IT: PRIMAFILA 11 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1226.ts
-#EXTINF:-1,IT: PRIMAFILA 10 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/1225.ts
-#EXTINF:-1,IT: PRIMAFILA 1 HD
-http://149.202.195.182:2500/live/Jacques2/Jacques2/995.ts
-
-
+#EXTINF:-1,======+LIST UPDATE 28/8/2016+=====
+https://www.youtube.com/watch?v=0qDdYlyLRoI
+#EXTINF:-1,**********IT Channels***********
+http://live.softiptv.com:9900/live/1212/1212/7456.ts
+#EXTINF:-1,ITSky-Sport-2HD
+http://live.softiptv.com:9900/live/1212/1212/10597.ts
+#EXTINF:-1,IT: PRIMAFILA_6
+http://live.softiptv.com:9900/live/1212/1212/8109.ts
+#EXTINF:-1,IT: PRIMAFILA_5
+http://live.softiptv.com:9900/live/1212/1212/8110.ts
+#EXTINF:-1,IT: PRIMAFILA_4
+http://live.softiptv.com:9900/live/1212/1212/8111.ts
+#EXTINF:-1,IT: PRIMAFILA_3
+http://live.softiptv.com:9900/live/1212/1212/8112.ts
+#EXTINF:-1,IT: PRIMAFILA_13
+http://live.softiptv.com:9900/live/1212/1212/8113.ts
+#EXTINF:-1,IT: PRIMAFILA_10
+http://live.softiptv.com:9900/live/1212/1212/8114.ts
+#EXTINF:-1,IT: PRIMAFILA_1
+http://live.softiptv.com:9900/live/1212/1212/8115.ts
+#EXTINF:-1,IT-Supertennis-HD
+http://live.softiptv.com:9900/live/1212/1212/10598.ts
+#EXTINF:-1,IT-SKYUno
+http://live.softiptv.com:9900/live/1212/1212/10602.ts
+#EXTINF:-1,IT-SkySport-3HD
+http://live.softiptv.com:9900/live/1212/1212/10603.ts
+#EXTINF:-1,IT-SkySport-24HD
+http://live.softiptv.com:9900/live/1212/1212/10604.ts
+#EXTINF:-1,IT-Sky-Sport-F1
+http://live.softiptv.com:9900/live/1212/1212/10605.ts
+#EXTINF:-1,IT-SKY-Cinema-HD
+http://live.softiptv.com:9900/live/1212/1212/10606.ts
+#EXTINF:-1,IT-SKY_NATIONAL_GEO
+http://live.softiptv.com:9900/live/1212/1212/10599.ts
+#EXTINF:-1,IT-SKY_DISCOVERY_CHANNEL
+http://live.softiptv.com:9900/live/1212/1212/10600.ts
+#EXTINF:-1,IT-SKY_CINEMA_MAX
+http://live.softiptv.com:9900/live/1212/1212/10601.ts
+#EXTINF:-1,IT-Sky Calcio 2 HD
+http://live.softiptv.com:9900/live/1212/1212/10607.ts
+#EXTINF:-1,IT-RAI5
+http://live.softiptv.com:9900/live/1212/1212/10608.ts
+#EXTINF:-1,IT-RAI4
+http://live.softiptv.com:9900/live/1212/1212/10609.ts
+#EXTINF:-1,IT-RAI3
+http://live.softiptv.com:9900/live/1212/1212/10610.ts
+#EXTINF:-1,IT-RAI2
+http://live.softiptv.com:9900/live/1212/1212/10611.ts
+#EXTINF:-1,IT-RAI1
+http://live.softiptv.com:9900/live/1212/1212/10612.ts
+#EXTINF:-1,IT-RAI-YOYO
+http://live.softiptv.com:9900/live/1212/1212/10613.ts
+#EXTINF:-1,IT-RAI-SPORT2
+http://live.softiptv.com:9900/live/1212/1212/10614.ts
+#EXTINF:-1,IT-RAI-SPORT1
+http://live.softiptv.com:9900/live/1212/1212/10615.ts
+#EXTINF:-1,IT-PREMUIM-CARTOON
+http://live.softiptv.com:9900/live/1212/1212/10616.ts
+#EXTINF:-1,IT-Premium-Stories
+http://live.softiptv.com:9900/live/1212/1212/10617.ts
+#EXTINF:-1,IT-Premium-Sport
+http://live.softiptv.com:9900/live/1212/1212/10618.ts
+#EXTINF:-1,IT-PREMIUM-JOY-HD
+http://live.softiptv.com:9900/live/1212/1212/10619.ts
+#EXTINF:-1,IT-Premium-Disney-Junior-HD
+http://live.softiptv.com:9900/live/1212/1212/10620.ts
+#EXTINF:-1,IT-Premium-Disney-junior
+http://live.softiptv.com:9900/live/1212/1212/10621.ts
+#EXTINF:-1,IT-Premium-Disney-Channel
+http://live.softiptv.com:9900/live/1212/1212/10622.ts
+#EXTINF:-1,IT-Premium-Cinema-Energy
+http://live.softiptv.com:9900/live/1212/1212/10623.ts
+#EXTINF:-1,IT-Premium-Cinema-Emotion
+http://live.softiptv.com:9900/live/1212/1212/10624.ts
+#EXTINF:-1,IT-Premium-Cinema-Comedy
+http://live.softiptv.com:9900/live/1212/1212/10625.ts
+#EXTINF:-1,IT-Premium-Cinema-2HD
+http://live.softiptv.com:9900/live/1212/1212/10626.ts
+#EXTINF:-1,IT-Premium-Cinema-2 24
+http://live.softiptv.com:9900/live/1212/1212/10627.ts
+#EXTINF:-1,IT-Premium-Calcio-1HD
+http://live.softiptv.com:9900/live/1212/1212/10628.ts
+#EXTINF:-1,IT-Premium-action 24
+http://live.softiptv.com:9900/live/1212/1212/10629.ts
+#EXTINF:-1,IT-PREMIUM-ACTION
+http://live.softiptv.com:9900/live/1212/1212/10630.ts
+#EXTINF:-1,IT-NAT-GEO-POEPLE
+http://live.softiptv.com:9900/live/1212/1212/10631.ts
+#EXTINF:-1,IT-LA7
+http://live.softiptv.com:9900/live/1212/1212/10632.ts
+#EXTINF:-1,IT-ITALIA2
+http://live.softiptv.com:9900/live/1212/1212/10633.ts
+#EXTINF:-1,IT-ITALIA1
+http://live.softiptv.com:9900/live/1212/1212/10634.ts
+#EXTINF:-1,IT-HISTORIA
+http://live.softiptv.com:9900/live/1212/1212/10635.ts
+#EXTINF:-1,IT-FOX-SPORTS
+http://live.softiptv.com:9900/live/1212/1212/10636.ts
+#EXTINF:-1,IT-DISNEY-XD
+http://live.softiptv.com:9900/live/1212/1212/10637.ts
+#EXTINF:-1,IT-Cinema-Comedy-HD
+http://live.softiptv.com:9900/live/1212/1212/10638.ts
+#EXTINF:-1,IT-cartoon-network
+http://live.softiptv.com:9900/live/1212/1212/10639.ts
+#EXTINF:-1,-IT-PREMIUM-CRIME-HD
+http://live.softiptv.com:9900/live/1212/1212/10580.ts
+#EXTINF:-1,IT=Marco-Polo-HD
+http://live.softiptv.com:9900/live/1212/1212/7320.ts
+#EXTINF:-1,IT: Milan Channel
+http://live.softiptv.com:9900/live/1212/1212/7434.ts
 
 #EXTINF:-1,###  ITALIAN  ###
 http://globiptv.com:8000/live/CLIENTX103/65sijod/1983.ts
@@ -828,472 +696,3 @@ http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1016.ts
 http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1017.ts
 #EXTINF:-1,IT_LA_7D
 http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1018.ts
-
-
-
-
-
-#EXTINF:-1,------ ITALY ------
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2914.ts
-#EXTINF:-1,VIP IT: Sky Super Calcio HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8981.ts
-#EXTINF:-1,VIP IT: Fox Sport HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9015.ts
-#EXTINF:-1,VIP IT: Sky Sport 1 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9004.ts
-#EXTINF:-1,VIP IT: Sky Sport 2 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9003.ts
-#EXTINF:-1,VIP IT: Sky Sport 3 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9001.ts
-#EXTINF:-1,VIP IT: Sky Sport 24 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9002.ts
-#EXTINF:-1,VIP IT: Sky Supercalcio HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9000.ts
-#EXTINF:-1,VIP IT: SKY Sport plus HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8987.ts
-#EXTINF:-1,VIP IT: Sky Calcio 1 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9014.ts
-#EXTINF:-1,VIP IT: Sky Calcio 2 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9128.ts
-#EXTINF:-1,VIP IT: Sky F1 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9017.ts
-#EXTINF:-1,VIP IT: Sky Moto GP HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9005.ts
-#EXTINF:-1,VIP IT: WWE HD PPV
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9088.ts
-#EXTINF:-1,VIP IT: Premium Sport HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9058.ts
-#EXTINF:-1,VIP IT: Premium Sport 2
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9089.ts
-#EXTINF:-1,VIP IT: Eurosport 1 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9056.ts
-#EXTINF:-1,VIP IT: Eurosport 2 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9057.ts
-#EXTINF:-1,VIP IT: BIKE CHANNEL HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6892.ts
-#EXTINF:-1,VIP IT: Roma TV
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9317.ts
-#EXTINF:-1,VIP IT: Milan TV
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9315.ts
-#EXTINF:-1,VIP IT: JUV HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9314.ts
-#EXTINF:-1,VIP IT: Inter CH
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9313.ts
-#EXTINF:-1,VIP IT: Sky Cinema1 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9013.ts
-#EXTINF:-1,VIP IT: Sky Cinema+1 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8988.ts
-#EXTINF:-1,VIP IT: Sky Cinema+24 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8989.ts
-#EXTINF:-1,VIP IT: Sky Cinema Passion HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9007.ts
-#EXTINF:-1,VIP IT: Sky Cinema Max HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9008.ts
-#EXTINF:-1,VIP IT: Sky Cinema Hits HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9009.ts
-#EXTINF:-1,VIP IT: Sky Cinema Family HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9010.ts
-#EXTINF:-1,VIP IT: Sky Cinema Cult HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9011.ts
-#EXTINF:-1,VIP IT: Sky Cinema Comedy HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9012.ts
-#EXTINF:-1,VIP IT: Sky Cinema Classics
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8996.ts
-#EXTINF:-1,VIP IT: Sky Atlantic HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8986.ts
-#EXTINF:-1,VIP IT: Studio Universal
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9074.ts
-#EXTINF:-1,VIP IT: Premium Cinema HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9059.ts
-#EXTINF:-1,VIP IT: Premium Cinema  +24
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9060.ts
-#EXTINF:-1,VIP IT: Premium Cinema  2 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9061.ts
-#EXTINF:-1,VIP IT: Premium Cinema 2  +24
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9062.ts
-#EXTINF:-1,VIP IT: Premium Action HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9064.ts
-#EXTINF:-1,VIP IT: Premium Action  +24
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9065.ts
-#EXTINF:-1,VIP IT: Premium Stories
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9071.ts
-#EXTINF:-1,VIP IT: Premium Stories  +24
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9072.ts
-#EXTINF:-1,VIP IT: Premium Joi
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9073.ts
-#EXTINF:-1,VIP IT: Premium Emotion
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9068.ts
-#EXTINF:-1,VIP IT: Premium Crime HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9066.ts
-#EXTINF:-1,VIP IT: Premium Crime  +24
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9070.ts
-#EXTINF:-1,VIP IT: Premium Cinema Comedy
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9069.ts
-#EXTINF:-1,VIP IT: Premium Energy
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2262.ts
-#EXTINF:-1,VIP IT: Sky Uno HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8999.ts
-#EXTINF:-1,VIP IT: Italia 1 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9018.ts
-#EXTINF:-1,VIP IT: Rete 4 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9019.ts
-#EXTINF:-1,VIP IT: Canale 5 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9020.ts
-#EXTINF:-1,VIP IT: Fox HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9016.ts
-#EXTINF:-1,VIP IT: Fox Life HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9006.ts
-#EXTINF:-1,VIP IT: Fox Crime HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9026.ts
-#EXTINF:-1,VIP IT: Fox Comedy HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9025.ts
-#EXTINF:-1,VIP IT: Fox Animation HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5010.ts
-#EXTINF:-1,VIP IT: TV8
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8997.ts
-#EXTINF:-1,VIP IT: DEEJAY TV NOVE
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8998.ts
-#EXTINF:-1,VIP IT: Paramount Channel HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9063.ts
-#EXTINF:-1,VIP IT: La7D
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9029.ts
-#EXTINF:-1,VIP IT: La7 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9028.ts
-#EXTINF:-1,VIP IT: La5
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9027.ts
-#EXTINF:-1,VIP IT: RSI LA1 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9087.ts
-#EXTINF:-1,VIP IT: RSI LA2 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9086.ts
-#EXTINF:-1,VIP IT: AXN HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9043.ts
-#EXTINF:-1,VIP IT: Real Time HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9041.ts
-#EXTINF:-1,VIP IT: Real Time  +1 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9042.ts
-#EXTINF:-1,VIP IT: DMAX HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9051.ts
-#EXTINF:-1,VIP IT: DMAX  +1 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9052.ts
-#EXTINF:-1,VIP IT: Disney Channel HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9055.ts
-#EXTINF:-1,VIP IT: National Geographic HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9048.ts
-#EXTINF:-1,VIP IT: NatGeo Wild HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9047.ts
-#EXTINF:-1,VIP IT: NatGeo People HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9049.ts
-#EXTINF:-1,VIP IT: Discovery HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9044.ts
-#EXTINF:-1,VIP IT: Discovery Sci HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9046.ts
-#EXTINF:-1,VIP IT: Discovery Travel&Living HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9045.ts
-#EXTINF:-1,VIP IT: Crime Investigation HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9321.ts
-#EXTINF:-1,VIP IT: Caccia e Pesca
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9053.ts
-#EXTINF:-1,VIP IT: PESCA e Caccia
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9090.ts
-#EXTINF:-1,VIP IT: Fine Living
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8995.ts
-#EXTINF:-1,VIP IT: Rai Premium HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9124.ts
-#EXTINF:-1,VIP IT: Rai Movies HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9318.ts
-#EXTINF:-1,VIP IT: VH1
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9319.ts
-#EXTINF:-1,VIP IT: SKY ARTE HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9316.ts
-#EXTINF:-1,VIP IT: Sky 3D
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9320.ts
-#EXTINF:-1,IT: FOX SPORTS PLUS HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3345.ts
-#EXTINF:-1,IT-: Premium Sport HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2723.ts
-#EXTINF:-1,IT: Premium Sport 2 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6801.ts
-#EXTINF:-1,IT: Premium Sport 2
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5302.ts
-#EXTINF:-1,IT: Premium Sport 2 Low
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7886.ts
-#EXTINF:-1,IT-: Premium Calcio HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2724.ts
-#EXTINF:-1,IT: Sky Sport Plus HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1404.ts
-#EXTINF:-1,IT: Fox Sports HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1410.ts
-#EXTINF:-1,IT: SKY SPORT 24 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2283.ts
-#EXTINF:-1,IT: SKY SPORT 1 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1853.ts
-#EXTINF:-1,IT: SKY SPORT 2 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1881.ts
-#EXTINF:-1,IT: SKY SPORT 3 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1405.ts
-#EXTINF:-1,IT: Sky Super Calcio HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1406.ts
-#EXTINF:-1,IT: Sky Calcio 1 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2398.ts
-#EXTINF:-1,IT: Sky Calcio 2 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2399.ts
-#EXTINF:-1,IT: Sky Calcio 3 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2806.ts
-#EXTINF:-1,IT: Sky Calcio 4 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4565.ts
-#EXTINF:-1,IT: Sky Calcio 5 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4566.ts
-#EXTINF:-1,IT: Sky Calcio 9 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6263.ts
-#EXTINF:-1,IT: Sky Calcio 10 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6264.ts
-#EXTINF:-1,IT: PREMIUM SPORT HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1241.ts
-#EXTINF:-1,IT: Premium Calcio SD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2784.ts
-#EXTINF:-1,IT: Premium Calcio 1
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1402.ts
-#EXTINF:-1,IT: Premium Calcio 2
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1401.ts
-#EXTINF:-1,IT: Premium Calcio 3
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1400.ts
-#EXTINF:-1,IT: Premium Calcio 4
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2106.ts
-#EXTINF:-1,IT: Premium Calcio 5
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2105.ts
-#EXTINF:-1,IT: Premium Calcio 6
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4050.ts
-#EXTINF:-1,IT: Premium Calcio 7
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5018.ts
-#EXTINF:-1,IT: Eurosport 1 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4094.ts
-#EXTINF:-1,IT: Sky Sport MotoGP HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4338.ts
-#EXTINF:-1,IT: Sky Sport F1 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1403.ts
-#EXTINF:-1,IT: Sky Fox Sports HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6888.ts
-#EXTINF:-1,IT: M2O TV
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2794.ts
-#EXTINF:-1,IT: Juventus TV HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2792.ts
-#EXTINF:-1,IT: Canale 8
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3570.ts
-#EXTINF:-1,IT: Sky Cinema Max +1 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5012.ts
-#EXTINF:-1,IT: Lazio Style Channel
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6889.ts
-#EXTINF:-1,IT: SUPER TENNIS HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2939.ts
-#EXTINF:-1,IT: RAI News
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7919.ts
-#EXTINF:-1,IT: SPORT ITALIA
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1992.ts
-#EXTINF:-1,IT: Rete 8 Sport
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6891.ts
-#EXTINF:-1,IT: Sky Uno HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2336.ts
-#EXTINF:-1,IT: Sky Uno+1 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6574.ts
-#EXTINF:-1,IT: Fox HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1411.ts
-#EXTINF:-1,IT: FOX LIFE HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4424.ts
-#EXTINF:-1,IT: Fox Crime HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4776.ts
-#EXTINF:-1,IT: FRISBEE Mini
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4777.ts
-#EXTINF:-1,IT: Paramount Ch HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7604.ts
-#EXTINF:-1,IT: ITALIA 1 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2177.ts
-#EXTINF:-1,IT: Rete 4 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2716.ts
-#EXTINF:-1,IT: Canale 5 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2416.ts
-#EXTINF:-1,IT: Sky Cinema+1 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3719.ts
-#EXTINF:-1,IT: Sky Cinema+24 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5008.ts
-#EXTINF:-1,IT: SKY Cinema Family HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1413.ts
-#EXTINF:-1,IT: Sky Cinema Family+1 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5009.ts
-#EXTINF:-1,IT: SKY CINEMA HITS HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2181.ts
-#EXTINF:-1,IT: SKY Cinema Passion HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3983.ts
-#EXTINF:-1,IT: SKY CINEMA CULT HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2183.ts
-#EXTINF:-1,IT: Sky Cinema Classic HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4176.ts
-#EXTINF:-1,IT: Sky Atlantic HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2443.ts
-#EXTINF:-1,IT: Premium Action HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2050.ts
-#EXTINF:-1,IT: Premium Action+24
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2403.ts
-#EXTINF:-1,IT: Premium Cinema HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2051.ts
-#EXTINF:-1,IT: Premium Cinema +24
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3982.ts
-#EXTINF:-1,IT: Premium Cinema 2 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2052.ts
-#EXTINF:-1,IT: Premium Cinema2  +24
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2053.ts
-#EXTINF:-1,IT: Premium Comedy
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2054.ts
-#EXTINF:-1,IT: PREMIUM STORIES
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2175.ts
-#EXTINF:-1,IT: Premium Stories+24
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7885.ts
-#EXTINF:-1,IT: Premium Joi+24
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7391.ts
-#EXTINF:-1,IT: Premium Emotion
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4228.ts
-#EXTINF:-1,IT: Premium Crime HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4177.ts
-#EXTINF:-1,IT: Premium Crime2  24
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3571.ts
-#EXTINF:-1,IT: Mediaset Extra
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2969.ts
-#EXTINF:-1,IT: Mediaset Italia 2
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2793.ts
-#EXTINF:-1,IT: Premium Top Crime
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2807.ts
-#EXTINF:-1,IT: La7 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3787.ts
-#EXTINF:-1,IT: RAI 1 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2963.ts
-#EXTINF:-1,IT: RAI 2 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2962.ts
-#EXTINF:-1,IT: RAI 3 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4162.ts
-#EXTINF:-1,IT: Rai 4 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4161.ts
-#EXTINF:-1,IT: Rai 5
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3569.ts
-#EXTINF:-1,IT: Rai scuola
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/8564.ts
-#EXTINF:-1,IT: DeeJay Tv   1
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6862.ts
-#EXTINF:-1,IT: Alice
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4098.ts
-#EXTINF:-1,IT: Real Time
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4093.ts
-#EXTINF:-1,IT: Nuvolari
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4417.ts
-#EXTINF:-1,IT: Marco Polo
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4780.ts
-#EXTINF:-1,IT: E! Entertainment
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6887.ts
-#EXTINF:-1,IT: AXN HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4779.ts
-#EXTINF:-1,IT: AXN Sci-Fi
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5011.ts
-#EXTINF:-1,IT: m2o
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6895.ts
-#EXTINF:-1,IT: MTV8
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5004.ts
-#EXTINF:-1,IT: TV GLOBO
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7392.ts
-#EXTINF:-1,IT: Videolina
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/7394.ts
-#EXTINF:-1,IT: Iris
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5003.ts
-#EXTINF:-1,IT: HISTORY HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4423.ts
-#EXTINF:-1,IT: Giallo
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4569.ts
-#EXTINF:-1,IT: Focus
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4420.ts
-#EXTINF:-1,IT: Explora HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4159.ts
-#EXTINF:-1,IT: Nat Geo Wild HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5735.ts
-#EXTINF:-1,IT: Discovery Channel HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1412.ts
-#EXTINF:-1,IT: Discovery Travel & Living HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4415.ts
-#EXTINF:-1,IT: Discovery Science HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4413.ts
-#EXTINF:-1,IT: Cielo HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4412.ts
-#EXTINF:-1,IT: Gambero Rosso HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5733.ts
-#EXTINF:-1,IT: Animal Planet
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2779.ts
-#EXTINF:-1,IT: TGCOM 24
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5432.ts
-#EXTINF:-1,IT: SKY TG24 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/1995.ts
-#EXTINF:-1,IT: RAI Sport 1 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2002.ts
-#EXTINF:-1,IT: RAI sport 2
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2001.ts
-#EXTINF:-1,IT: RAI PREMIUM
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2004.ts
-#EXTINF:-1,IT: RAI NEWS 24
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2005.ts
-#EXTINF:-1,IT: LA5
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5734.ts
-#EXTINF:-1,IT: Rai yoyo
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5016.ts
-#EXTINF:-1,IT: RAI GULP
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2007.ts
-#EXTINF:-1,IT: Disney Channel+1
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6894.ts
-#EXTINF:-1,IT: Premium Disney Junior
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5014.ts
-#EXTINF:-1,IT: Disney XD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2785.ts
-#EXTINF:-1,IT: CARTOONITO
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2782.ts
-#EXTINF:-1,IT: CARTOON NETWORK
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2781.ts
-#EXTINF:-1,IT: Boing
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/3947.ts
-#EXTINF:-1,IT: Super !
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4092.ts
-#EXTINF:-1,IT: MAN-GA
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/5303.ts
-#EXTINF:-1,IT: Frisbee
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4158.ts
-#EXTINF:-1,IT: K2
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4419.ts
-#EXTINF:-1,IT: Prima fila 1 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/2055.ts
-#EXTINF:-1,IT: Prima Fila 2 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4622.ts
-#EXTINF:-1,IT: Prima Fila 3 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4169.ts
-#EXTINF:-1,IT: Prima Fila 4 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4168.ts
-#EXTINF:-1,IT: Prima Fila 5 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4167.ts
-#EXTINF:-1,IT: Prima Fila 6 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4166.ts
-#EXTINF:-1,IT: Prima Fila 7 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4165.ts
-#EXTINF:-1,IT: Prima Fila 8 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4164.ts
-#EXTINF:-1,IT: Prima Fila 9 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4163.ts
-#EXTINF:-1,IT: Prima Fila 10 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/4175.ts
-#EXTINF:-1,IT: Prima Fila 11 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6863.ts
-#EXTINF:-1,IT: Prima Fila 12 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6864.ts
-#EXTINF:-1,IT: Prima Fila 13 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6865.ts
-#EXTINF:-1,IT: Prima Fila 14 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6866.ts
-#EXTINF:-1,IT: Prima Fila 15 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6867.ts
-#EXTINF:-1,IT: Prima Fila 16 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6868.ts
-#EXTINF:-1,IT: Prima Fila 17 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6869.ts
-#EXTINF:-1,IT: Prima Fila 18 HD
-http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/6870.ts
