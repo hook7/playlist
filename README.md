@@ -1,2 +1,2 @@
 # automate_void
-'chmod +x automate_void.sh'
+$ chmod +x automate_void.sh
